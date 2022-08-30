@@ -1,6 +1,7 @@
 ### HELLO THERE!👋
 <hr>
-My name is Pranoti Durugkar, thank you for visiting my profile <br>
+My name is Pranoti Durugkar, thank you for visiting my profile.
+<br>
 
 *🔭 I’m currently looking for opportunities in SDE role.<br>
 *📫 How to reach me: 
