@@ -1,11 +1,9 @@
-### Hi there, I am Pranoti 👋
+### HELLO THERE!👋
+<hr>
+My name is Pranoti Durugkar, thank you for visiting my profile <br>
 
-- 🔭 I’m currently working on JAVA
-- 🌱 I’m currently learning DSA
-- 👯 I’m looking to collaborate on BLOCKCHAIN
-- 🤔 I’m looking for help with BLOCKCHAIN
-- 💬 Ask me about DSA
-- 📫 How to reach me: 
-   Email: pranotidurugkar1111@gmail.com
-   LinkedIn: www.linkedin.com/in/pd111
+*🔭 I’m currently looking for opportunities in SDE role.<br>
+*📫 How to reach me: 
+- 1.Email: pranotidurugkar1111@gmail.com
+- 2.LinkedIn: www.linkedin.com/in/pd111
 
