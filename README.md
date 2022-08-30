@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Pranoti 👋
 
 - 🔭 I’m currently working on JAVA
 - 🌱 I’m currently learning DSA
