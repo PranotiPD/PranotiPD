@@ -5,6 +5,7 @@
 - 👯 I’m looking to collaborate on BLOCKCHAIN
 - 🤔 I’m looking for help with BLOCKCHAIN
 - 💬 Ask me about DSA
-- 📫 How to reach me: pranotidurugkar1111@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I can sing too
+- 📫 How to reach me: 
+   Email: pranotidurugkar1111@gmail.com
+   LinkedIn: www.linkedin.com/in/pd111
+
