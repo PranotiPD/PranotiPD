@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PranotiPD&label=Profile%20views&color=0e75b6&style=flat" alt="PranotiPD" /> </p>
 <!-- <p align="right"> <img src="https://media.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif" alt="Coder GIF" align="right" width="400"> </p> -->
 
-- 🌱 I’m currently learning **SpringBoot** <br>
+- 🌱 I’m currently learning **Kafka & Redis** <br>
 
 - 🔭 I am practising DSA.  [![LeetCode user WhiteTurtle](https://img.shields.io/badge/dynamic/json?style=social&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FWhiteTurtle&logo=leetcode&logoColor=yellow)](https://leetcode.com/WhiteTurtle/)<br>
 
